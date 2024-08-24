@@ -1,0 +1,32 @@
+{
+    "id": "699C1040",
+    "path": "C:/Users/zawis/Desktop/projekt-rpis/projekt.Rmd",
+    "project_path": "projekt.Rmd",
+    "type": "r_markdown",
+    "hash": "2311637169",
+    "contents": "",
+    "dirty": false,
+    "created": 1705663558960.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "312,0",
+        "scrollLine": "0",
+        "rmdVisualMode": "true",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "2:0",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "docOutlineSize": "180"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1706262309,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1706262309107,
+    "read_only": false,
+    "read_only_alternatives": []
+}

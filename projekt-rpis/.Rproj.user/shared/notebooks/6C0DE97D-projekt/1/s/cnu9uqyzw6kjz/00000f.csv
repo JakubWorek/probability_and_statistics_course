@@ -1,0 +1,6 @@
+"0","performPRS <- function(numberOfExec, givenFunc, pointsGenerator, dimensions, domain){"
+"0","  generatedPoints <- replicate(numberOfExec, pointsGenerator(dimensions, domain))"
+"0","  pointsMat <- matrix(generatedPoints, nrow = numberOfExec)"
+"0","  res <- apply(pointsMat, 1, givenFunc)"
+"0","  return(min(res))"
+"0","}"

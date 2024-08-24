@@ -1,0 +1,20 @@
+"0","
+# Assuming 'df' is your data frame
+
+# Create a table with kable
+tbl <- kable(df) %>%
+  
+  # Apply styling options
+  kable_styling(full_width = FALSE, position = ""center"", latex_options = c(""striped"", ""hold_position"")) %>%
+  
+  # Specify font size for the header row (row_spec)
+  row_spec(0, bold = TRUE, color = ""white"", background = ""gray"") %>%
+  
+  # Specify font size for all other cells (cell_spec)
+  cell_spec(cols_everything(), ""font-size"", 12)
+
+# Print the table
+print(tbl)"
+"2","'""library(kableExtra)""' is not recognized as an internal or external command,
+operable program or batch file.
+"

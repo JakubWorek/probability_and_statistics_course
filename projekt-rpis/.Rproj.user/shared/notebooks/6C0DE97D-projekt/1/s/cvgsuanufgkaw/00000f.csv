@@ -1,0 +1,5 @@
+"0","getRandomPoint <- function(dimensions, domain){"
+"0","  rndPoint <- replicate(n=dimensions, runif(1,-domain,domain))"
+"0","  return(rndPoint)"
+"0","}"
+"0",""

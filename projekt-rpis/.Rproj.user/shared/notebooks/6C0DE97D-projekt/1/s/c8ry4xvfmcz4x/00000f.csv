@@ -1,0 +1,7 @@
+"0","rb2dr = t.test(rosenbrock_2D_result_PRS,rosenbrock_2D_result_GA, var.equal = TRUE )"
+"0","rb10dr = t.test(rosenbrock_10D_result_PRS,rosenbrock_10D_result_GA, var.equal = TRUE )"
+"0","rb20dr = t.test(rosenbrock_20D_result_PRS,rosenbrock_20D_result_GA , var.equal = TRUE)"
+"0",""
+"0","alpine2dt = t.test(alpine01_2D_result_PRS, alpine01_2D_result_GA, var.equal = TRUE )"
+"0","alpine10dt = t.test(alpine01_10D_result_PRS, alpine01_10D_result_GA, var.equal = TRUE )"
+"0","alpine20dt = t.test(alpine01_20D_result_PRS, alpine01_20D_result_GA, var.equal = TRUE )"

@@ -1,0 +1,29 @@
+{
+    "id": "AB7AA499",
+    "path": "D:/projekt-rpis/projekt.Rmd",
+    "project_path": "projekt.Rmd",
+    "type": "r_markdown",
+    "hash": "2311637169",
+    "contents": "",
+    "dirty": false,
+    "created": 1706262455805.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "2:6292"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1706262427,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1706262427,
+    "read_only": false,
+    "read_only_alternatives": []
+}
